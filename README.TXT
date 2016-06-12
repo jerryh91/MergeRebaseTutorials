@@ -3,3 +3,4 @@ Change2
 Adding my changes in master
 Adding my changes2 in master
 Adding my changes in feature2 branch
+Adding my changes in feature3 branch
